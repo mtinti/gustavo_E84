@@ -351,7 +351,7 @@ function scaterPlot(data, selection, in_width, in_height, unique_id, x_col, y_co
             d3.selectAll("circle[id*='" + selector + "']")
                 //.style("stroke", 'blue')
                 .style("opacity", 1)
-                style("fill", "red")
+                .style("fill", "red")
                 .attr("stroke-width", '5')
                 .attr("r", 8)
                 .raise();
