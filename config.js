@@ -9,7 +9,7 @@ let FLIP_Y2=false;
 let PLOT_WIDTH=550;
 let PLOT_HEIGHT=400;
 
-let PROJECT_TITLE='PAB1';
+let PROJECT_TITLE='PBP1';
 
 let margin = 0.05;
 
